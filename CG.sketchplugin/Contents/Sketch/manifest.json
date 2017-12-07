@@ -57,7 +57,7 @@
       "identifier" : "names-fm"
     },
       {
-      "script" : "Persona/Names/Male.js",
+      "script" : "RecCenter/Sports/Random.js",
       "handler" : "onRun",
       "shortcut" : "",
       "name" : "Random Sport",
