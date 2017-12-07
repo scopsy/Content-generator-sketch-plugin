@@ -56,6 +56,13 @@
       "name" : "Female and Male",
       "identifier" : "names-fm"
     },
+      {
+      "script" : "Persona/Names/Male.js",
+      "handler" : "onRun",
+      "shortcut" : "",
+      "name" : "Random Sport",
+      "identifier" : "random-sport"
+    },
     {
       "script" : "Persona/Names/Male.js",
       "handler" : "onRun",
