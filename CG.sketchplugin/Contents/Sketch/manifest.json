@@ -277,6 +277,12 @@
   "menu": {
     "items": [
       {
+        "title": "RecCenter",
+        "items": [
+          "random-sport"
+        ]
+      },
+      {
         "title": "Images",
         "items": [
           "custom-images", "flickr", "insta"
